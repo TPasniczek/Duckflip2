@@ -20,7 +20,7 @@
                             <button type="submit">DELETE</button>
         <form action="/sendhint" method="get">
                             <button type="submit">SEND HINT</button>
-        <h3> HACKER DUCK make your move!</h3> 
+        <h3> MAKER DUCK make your move!</h3> 
        <h5> Click on the colored peg to place it in the row </h5>
        <h3> TIME </h3> 
     </main>
