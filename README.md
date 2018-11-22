@@ -19,6 +19,7 @@
         <h3> HACKER DUCK make your move!</h3> 
        <h5> Click on the colored peg to place it in the row </h5>
        <h3> TIME </h3> 
+       <h3> SOLUTION </h3>
     </main>
   </body>
 </html>
