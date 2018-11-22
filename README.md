@@ -16,9 +16,7 @@
                             <button type="submit">QUIT</button>
         <form action="/full-screen" method="get">
                             <button type="submit">FULL SCREEN</button>
-        <form action="/newgame" method="get">
-                            <button type="submit">NEW GAME</button>
-       <h3> HACKER DUCK make youe move!</h3> 
+        <h3> HACKER DUCK make youe move!</h3> 
        <h5> Click on the colored peg to place it in the row </h5>
        <h3> TIME </h3>
           
